@@ -1,1 +1,1 @@
-http://testdoga.xss.ht
+start http://testdoga.xss.ht
