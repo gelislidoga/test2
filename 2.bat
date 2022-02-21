@@ -1,1 +1,1 @@
-curl testdoga.xss.ht
+http://testdoga.xss.ht
