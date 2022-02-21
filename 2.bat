@@ -1,1 +1,1 @@
-curl -I testdoga.xss.ht
+curl testdoga.xss.ht
