@@ -1,1 +1,1 @@
-calc.exe
+ping t.co
